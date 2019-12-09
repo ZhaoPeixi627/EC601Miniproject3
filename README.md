@@ -11,11 +11,13 @@ Numpy is the fundamental package for scientific computing with Python. Besides i
 
 ![](https://github.com/ZhaoPeixi627/EC601Miniproject3/blob/master/Miniproject3/numpy_1.png)
 ![](https://github.com/ZhaoPeixi627/EC601Miniproject3/blob/master/Miniproject3/numpy_2.png)
+
 2. Scipy
 SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ![](https://github.com/ZhaoPeixi627/EC601Miniproject3/blob/master/Miniproject3/scipy_1.png)
 ![](https://github.com/ZhaoPeixi627/EC601Miniproject3/blob/master/Miniproject3/scipy_2.png)
+
 3.Matplotlib
 Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shells, the Jupyter notebook,google Colab,jupyter lab, web application servers, and four graphical user interface toolkits.
 
